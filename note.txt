@@ -1,0 +1,6 @@
+tar -tRf CykloAtlas-13-001.tar > CykloAtlas-13-001.tmi
+
+   Actual:     N39бу4'21.9"  E117бу15'49.6"
+   Google Map: N39бу4'26.3"  E117бу16'13.6"
+
+perl cb.pl 39D4M21.9 117D15M49.6 39D4M26.3 117D16M13.6
